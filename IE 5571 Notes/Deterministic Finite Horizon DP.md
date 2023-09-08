@@ -28,13 +28,13 @@ f - mechanism that updates state variable
 
 ### $g_N(x_N)*\prod^{N-1}_{k=0}g_k(x_k,u_k)$
 
-<insert picture 1 here>
+![[Pasted image 20230907214448.png]]
 
 Goal of optimal control is to solve
 ### $J^*(x_0)=min\{J(x;u_0,...,u_{N-1});u_K\in U(x_k),x_{k+1}=f(x_k,u_k)\}$
 
 #### Example 1
-<insert picture 2 here>
+![[Pasted image 20230907214526.png]]
 
 Goal: Find shortest length path from O to T
 -- x_k or state: current node
