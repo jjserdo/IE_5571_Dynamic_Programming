@@ -3,7 +3,7 @@ September 6, 2023
 
 ---
 
-DP Algorithm is based on the [[Dynamic Programming Principle]]
+DP Algorithm is based on the [[DP Principle]]
 
 Let $u^*=(u^*_0,u^*_1,...,u^*_{N-1})$ be an optimal control sequence
 and $x^*=(x^*_0,x^*_1,...,x^*_N)$ be the optimal state sequence
