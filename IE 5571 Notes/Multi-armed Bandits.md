@@ -67,3 +67,9 @@ and with probability (w.p.) $\epsilon$ we choose $A_t$ at random from $\{1,.,.k\
 
 ## $\epsilon$ - greedy algorithm with averaging
 {}
+
+
+---
+
+[[Lecture 4 Notes]] 
+Last class we said estimate 

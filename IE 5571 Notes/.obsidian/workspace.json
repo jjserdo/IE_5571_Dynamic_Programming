@@ -6,18 +6,75 @@
       {
         "id": "94233045136597f0",
         "type": "tabs",
-        "dimension": 48.94053315105947,
+        "dimension": 43.19890635680109,
         "children": [
           {
             "id": "1c29ed15eac6af9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gradient Ascent.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "ab6c51dab664a38c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upper Confidence Band.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a494f87cc391938",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/DynamicProgramming2.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f602a917c3271a9a",
+        "type": "tabs",
+        "dimension": 56.80109364319891,
+        "children": [
+          {
+            "id": "4767083a3c5e11b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic DP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f888116a1f9e323d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient Bandit Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4746e839e0510bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,35 +87,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "f602a917c3271a9a",
-        "type": "tabs",
-        "dimension": 51.05946684894054,
-        "children": [
-          {
-            "id": "a82e460892052723",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/HW1.pdf"
-              }
-            }
-          },
-          {
-            "id": "4767083a3c5e11b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic DP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi-armed Bandits.md",
+                "file": "Gradient Bandit Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi-armed Bandits.md",
+                "file": "Gradient Bandit Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multi-armed Bandits.md"
+                "file": "Gradient Bandit Algorithm.md"
               }
             }
           },
@@ -195,21 +223,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab6c51dab664a38c",
+  "active": "f888116a1f9e323d",
   "lastOpenFiles": [
-    "Files/epsilonAvg.py",
-    "Files/MBP.py",
-    "Law of Large Numbers.md",
+    "Gradient Ascent.md",
+    "Gradient Bandit Algorithm.md",
+    "Lecture 4 Notes.md",
     "Lecture 3  Notes.md",
+    "Upper Confidence Band.md",
+    "Law of Large Numbers.md",
     "Multi-armed Bandits.md",
-    "Files/HW1.pdf",
+    "Files/DynamicProgramming2.pdf",
+    "Files/DPLecture2.pdf",
+    "Files/Lecture2.pdf",
+    "HW 1 Notes.md",
     "Stochastic DP.md",
     "Deterministic Finite Horizon DP.md",
-    "DP Algorithm.md",
+    "Bellman Equation.md",
     "Introduction & Background.md",
-    "HW 1 Notes.md",
-    "Files/DynamicProgramming1.pdf",
     "Lecture 2 Monday.md",
+    "Files/epsilonAvg.py",
+    "Files/MBP.py",
+    "Files/HW1.pdf",
+    "DP Algorithm.md",
+    "Files/DynamicProgramming1.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Travelling Salesperson Problem.md",
@@ -218,16 +254,13 @@
     "Files/Serdoncillo_HW1.py",
     "Files/syllabus.pdf",
     "DP Principle.md",
-    "Bellman Equation.md",
     "Photos/Pasted image 20230911222548.png",
     "Photos/Pasted image 20230911222638.png",
     "Photos/Pasted image 20230911222614.png",
     "Wealth Problem.md",
     "Files",
-    "New folder",
     "Photos/Pasted image 20230907214550.png",
     "Photos/Pasted image 20230907214526.png",
-    "Photos/Pasted image 20230907214448.png",
-    "Photos"
+    "Photos/Pasted image 20230907214448.png"
   ]
 }
