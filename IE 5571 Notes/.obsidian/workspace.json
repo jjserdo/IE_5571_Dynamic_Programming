@@ -6,7 +6,6 @@
       {
         "id": "94233045136597f0",
         "type": "tabs",
-        "dimension": 43.19890635680109,
         "children": [
           {
             "id": "1c29ed15eac6af9a",
@@ -33,6 +32,18 @@
             }
           },
           {
+            "id": "f888116a1f9e323d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a494f87cc391938",
             "type": "leaf",
             "state": {
@@ -42,51 +53,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "f602a917c3271a9a",
-        "type": "tabs",
-        "dimension": 56.80109364319891,
-        "children": [
-          {
-            "id": "4767083a3c5e11b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic DP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f888116a1f9e323d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradient Bandit Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4746e839e0510bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-armed Bandits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bec724117eb4ae89",
@@ -152,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient Bandit Algorithm.md",
+                "file": "HW 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gradient Bandit Algorithm.md",
+                "file": "HW 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradient Bandit Algorithm.md"
+                "file": "HW 1 Notes.md"
               }
             }
           },
@@ -225,40 +194,43 @@
   },
   "active": "f888116a1f9e323d",
   "lastOpenFiles": [
-    "Gradient Ascent.md",
+    "Files/Serdoncillo_Justine_HW1.pdf",
+    "Files/2023-09-25-23-36.pdf",
+    "Files/tmp509gse8v",
+    "Files/HW1_exer25.pdf",
+    "Files/tmpn2zy3f7w",
+    "Files/HW1_exer25.py",
+    "Files/syllabus.pdf",
+    "Files/HW1.pdf",
+    "Deterministic Finite Horizon DP.md",
+    "Bellman Equation.md",
+    "Introduction & Background.md",
+    "DP Algorithm.md",
+    "HW 1 Notes.md",
+    "Multi-armed Bandits.md",
+    "Wealth Problem.md",
+    "Travelling Salesperson Problem.md",
+    "DP Principle.md",
+    "Pasted image 20230925140252.png",
+    "Pasted image 20230925114421.png",
     "Gradient Bandit Algorithm.md",
+    "Gradient Ascent.md",
     "Lecture 4 Notes.md",
     "Lecture 3  Notes.md",
     "Upper Confidence Band.md",
     "Law of Large Numbers.md",
-    "Multi-armed Bandits.md",
     "Files/DynamicProgramming2.pdf",
     "Files/DPLecture2.pdf",
     "Files/Lecture2.pdf",
-    "HW 1 Notes.md",
     "Stochastic DP.md",
-    "Deterministic Finite Horizon DP.md",
-    "Bellman Equation.md",
-    "Introduction & Background.md",
     "Lecture 2 Monday.md",
-    "Files/epsilonAvg.py",
-    "Files/MBP.py",
-    "Files/HW1.pdf",
-    "DP Algorithm.md",
-    "Files/DynamicProgramming1.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Travelling Salesperson Problem.md",
     "Pasted image 20230912105252.png",
     "Pasted image 20230912105247.png",
-    "Files/Serdoncillo_HW1.py",
-    "Files/syllabus.pdf",
-    "DP Principle.md",
     "Photos/Pasted image 20230911222548.png",
     "Photos/Pasted image 20230911222638.png",
     "Photos/Pasted image 20230911222614.png",
-    "Wealth Problem.md",
-    "Files",
     "Photos/Pasted image 20230907214550.png",
     "Photos/Pasted image 20230907214526.png",
     "Photos/Pasted image 20230907214448.png"
