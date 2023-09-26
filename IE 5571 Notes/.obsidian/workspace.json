@@ -23,23 +23,9 @@
             "id": "ab6c51dab664a38c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Upper Confidence Band.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f888116a1f9e323d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HW 1 Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/HW2.pdf"
               }
             }
           },
@@ -54,7 +40,32 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "5b94713c09126a12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f44c5def8bb93f76",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/DynamicProgramming2.pdf"
+              }
+            }
+          },
+          {
+            "id": "faf41304873d8feb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bec724117eb4ae89",
@@ -121,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HW 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HW 1 Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +198,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f888116a1f9e323d",
+  "active": "faf41304873d8feb",
   "lastOpenFiles": [
+    "HW 2 Notes.md",
+    "Pasted image 20230926084500.png",
+    "Pasted image 20230926084413.png",
+    "Pasted image 20230926084358.png",
+    "Pasted image 20230926084246.png",
+    "Pasted image 20230926084200.png",
+    "Pasted image 20230926084133.png",
+    "Pasted image 20230926084113.png",
+    "Pasted image 20230926084049.png",
+    "Pasted image 20230926083855.png",
+    "HW 1 Notes.md",
+    "Files/HW2.pdf",
+    "Upper Confidence Band.md",
+    "Files/DynamicProgramming2.pdf",
     "Files/Serdoncillo_Justine_HW1.pdf",
     "Files/2023-09-25-23-36.pdf",
     "Files/tmp509gse8v",
@@ -206,33 +226,19 @@
     "Bellman Equation.md",
     "Introduction & Background.md",
     "DP Algorithm.md",
-    "HW 1 Notes.md",
     "Multi-armed Bandits.md",
     "Wealth Problem.md",
     "Travelling Salesperson Problem.md",
     "DP Principle.md",
     "Pasted image 20230925140252.png",
-    "Pasted image 20230925114421.png",
     "Gradient Bandit Algorithm.md",
     "Gradient Ascent.md",
     "Lecture 4 Notes.md",
     "Lecture 3  Notes.md",
-    "Upper Confidence Band.md",
     "Law of Large Numbers.md",
-    "Files/DynamicProgramming2.pdf",
-    "Files/DPLecture2.pdf",
-    "Files/Lecture2.pdf",
     "Stochastic DP.md",
     "Lecture 2 Monday.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Pasted image 20230912105252.png",
-    "Pasted image 20230912105247.png",
-    "Photos/Pasted image 20230911222548.png",
-    "Photos/Pasted image 20230911222638.png",
-    "Photos/Pasted image 20230911222614.png",
-    "Photos/Pasted image 20230907214550.png",
-    "Photos/Pasted image 20230907214526.png",
-    "Photos/Pasted image 20230907214448.png"
+    "Untitled.canvas"
   ]
 }
