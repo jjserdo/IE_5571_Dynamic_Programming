@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Files/HW2.pdf"
+                "file": "Files/syllabus.pdf"
               }
             }
           },
@@ -48,6 +48,26 @@
               "type": "pdf",
               "state": {
                 "file": "Files/DynamicProgramming2.pdf"
+              }
+            }
+          },
+          {
+            "id": "30862f7b55a01ac8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "db213b9444b14a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW 3 Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -192,29 +212,30 @@
   },
   "active": "faf41304873d8feb",
   "lastOpenFiles": [
-    "Files/HW2_exer47.py",
-    "Files/tmprccvximg",
-    "Files/HW2.pdf",
-    "Files/DynamicProgramming2.pdf",
+    "HW 3 Notes.md",
+    "Pasted image 20231009155848.png",
+    "Pasted image 20231009155819.png",
+    "Pasted image 20231009155801.png",
+    "Pasted image 20231009155741.png",
+    "Pasted image 20231009155716.png",
+    "Pasted image 20231009155621.png",
+    "Pasted image 20231009155557.png",
+    "Files/syllabus.pdf",
+    "Files/Homeworks/HW 3/HW3.pdf",
+    "Files/Homeworks/HW 3",
+    "Files/Homeworks/New folder",
+    "Files/Homeworks/New shortcut.lnk",
+    "Files/Homeworks/HW 2/Serdoncillo_HW2.pdf",
+    "Files/Homeworks/HW 2/DPRL-HW-2.pdf",
+    "Files/Homeworks/HW 2/HW2_online.pdf",
+    "Files/Homeworks/HW 2/IE5571_RLDP_HW2_Serdoncillo.pdf",
+    "Files/Homeworks/HW 2/Serdoncillo_HW1.py",
     "HW 2 Notes.md",
-    "Pasted image 20230926084500.png",
-    "Pasted image 20230926084413.png",
-    "Pasted image 20230926084358.png",
-    "Pasted image 20230926084246.png",
-    "Pasted image 20230926084200.png",
-    "Pasted image 20230926084133.png",
-    "Pasted image 20230926084113.png",
-    "Pasted image 20230926084049.png",
-    "Pasted image 20230926083855.png",
+    "Files/Homeworks/HW 2/speVal.png",
+    "Files/Homeworks/HW 2/spe4.png",
+    "Files/Homeworks/HW 2/spe3.png",
     "HW 1 Notes.md",
     "Upper Confidence Band.md",
-    "Files/Serdoncillo_Justine_HW1.pdf",
-    "Files/2023-09-25-23-36.pdf",
-    "Files/tmp509gse8v",
-    "Files/HW1_exer25.pdf",
-    "Files/tmpn2zy3f7w",
-    "Files/HW1_exer25.py",
-    "Files/syllabus.pdf",
     "Deterministic Finite Horizon DP.md",
     "Bellman Equation.md",
     "Introduction & Background.md",
@@ -223,7 +244,6 @@
     "Wealth Problem.md",
     "Travelling Salesperson Problem.md",
     "DP Principle.md",
-    "Pasted image 20230925140252.png",
     "Gradient Bandit Algorithm.md",
     "Gradient Ascent.md",
     "Lecture 4 Notes.md",
