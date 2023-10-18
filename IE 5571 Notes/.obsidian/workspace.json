@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW 2 Notes.md",
+                "file": "HW 3 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HW 2 Notes.md",
+                "file": "HW 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW 2 Notes.md"
+                "file": "HW 3 Notes.md"
               }
             }
           },
@@ -210,8 +210,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faf41304873d8feb",
+  "active": "db213b9444b14a93",
   "lastOpenFiles": [
+    "HW 2 Notes.md",
     "HW 3 Notes.md",
     "Pasted image 20231009155848.png",
     "Pasted image 20231009155819.png",
@@ -230,7 +231,6 @@
     "Files/Homeworks/HW 2/HW2_online.pdf",
     "Files/Homeworks/HW 2/IE5571_RLDP_HW2_Serdoncillo.pdf",
     "Files/Homeworks/HW 2/Serdoncillo_HW1.py",
-    "HW 2 Notes.md",
     "Files/Homeworks/HW 2/speVal.png",
     "Files/Homeworks/HW 2/spe4.png",
     "Files/Homeworks/HW 2/spe3.png",
