@@ -52,14 +52,6 @@
             }
           },
           {
-            "id": "30862f7b55a01ac8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "db213b9444b14a93",
             "type": "leaf",
             "state": {
@@ -70,9 +62,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5793f73da698fa48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW 4 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2dabfc19a6b775f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW 5 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a35ebaadc51e404e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "912400eda297d641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -139,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW 3 Notes.md",
+                "file": "Final Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HW 3 Notes.md",
+                "file": "Final Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW 3 Notes.md"
+                "file": "Final Project.md"
               }
             }
           },
@@ -210,30 +246,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db213b9444b14a93",
+  "active": "912400eda297d641",
   "lastOpenFiles": [
-    "HW 2 Notes.md",
+    "Final Project.md",
+    "HW 5 Notes.md",
+    "HW 4 Notes.md",
     "HW 3 Notes.md",
-    "Pasted image 20231009155848.png",
-    "Pasted image 20231009155819.png",
-    "Pasted image 20231009155801.png",
-    "Pasted image 20231009155741.png",
-    "Pasted image 20231009155716.png",
-    "Pasted image 20231009155621.png",
-    "Pasted image 20231009155557.png",
-    "Files/syllabus.pdf",
-    "Files/Homeworks/HW 3/HW3.pdf",
-    "Files/Homeworks/HW 3",
+    "Files/DynamicProgramming2.pdf",
+    "Files/Homeworks/HW 4/second.png",
+    "Files/Homeworks/HW 4/first.png",
+    "Files/Homeworks/HW 4/tmpiq0d_gxi",
+    "Files/Homeworks/HW 4/hw4_exer6_10.py",
+    "Files/Homeworks/HW 4",
     "Files/Homeworks/New folder",
-    "Files/Homeworks/New shortcut.lnk",
-    "Files/Homeworks/HW 2/Serdoncillo_HW2.pdf",
-    "Files/Homeworks/HW 2/DPRL-HW-2.pdf",
-    "Files/Homeworks/HW 2/HW2_online.pdf",
-    "Files/Homeworks/HW 2/IE5571_RLDP_HW2_Serdoncillo.pdf",
-    "Files/Homeworks/HW 2/Serdoncillo_HW1.py",
-    "Files/Homeworks/HW 2/speVal.png",
-    "Files/Homeworks/HW 2/spe4.png",
-    "Files/Homeworks/HW 2/spe3.png",
+    "Pasted image 20231024102728.png",
+    "Pasted image 20231024102655.png",
+    "Pasted image 20231024102645.png",
+    "Pasted image 20231024102613.png",
+    "Pasted image 20231024102600.png",
+    "Pasted image 20231024102527.png",
+    "Pasted image 20231024102425.png",
+    "Pasted image 20231024102401.png",
+    "Files/Homeworks/HW 3/tmplntwn_pa",
+    "Files/Homeworks/HW 3/tmpf3f6lvfi",
+    "Files/Homeworks/HW 3/tmp_upkst86",
+    "Files/Homeworks/HW 3/tmplnukd44f",
+    "Files/Homeworks/HW 3/tmprnk7v3wt",
+    "HW 2 Notes.md",
     "HW 1 Notes.md",
     "Upper Confidence Band.md",
     "Deterministic Finite Horizon DP.md",
